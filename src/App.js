@@ -13,7 +13,7 @@ function App() {
         <div className="hero-area font-bold lg:text-8xl md:text-6xl md:my-40  my-20 2xl:w-2/3 xl:w-4/5 md:w-2/3">
           <p>
             This is an demo project to showcase how to achive localization in
-            react using Toglee.
+            react using Toglee
           </p>
         </div>
         {/* **************************** About Section ********************* */}
@@ -24,11 +24,9 @@ function App() {
             <p>
               This project is to explain the viewers how localization can be
               easily achived in React using Toglee. And how important it is for
-              buisnesses.
+              buisnesses
             </p>
-            <p className="my-10 text-blue-600 cursor-pointer">
-              Read full blog...
-            </p>
+            <p className="my-10 text-blue-600 cursor-pointer">Read full blog</p>
           </div>
         </div>
         {/* ****************************Contact**************************** */}
