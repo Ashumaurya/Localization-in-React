@@ -22,24 +22,26 @@ function App() {
           <p>
             <T>
               This is a demo project to showcase how to achive localization in
-              react using Tolgee.
+              react using Tolgee
             </T>
           </p>
         </div>
         {/* **************************** About Section ********************* */}
         <div className="md:py-40 py-20">
-          <div className="section-title text-2xl font-black">About</div>
+          <div className="section-title text-2xl font-black">
+            <T>About</T>
+          </div>
 
           <div className="about-description py-20 text-2xl md:w-2/3 ">
             <p>
               <T>
                 This project is to explain the viewers how localization can be
                 easily achived in React using Tolgee. And how important it is
-                for buisnesses.
+                for buisnesses
               </T>
             </p>
             <p className="my-10 text-blue-600 cursor-pointer">
-              <T>Read full blog...</T>
+              <T>Read full blog</T>
             </p>
           </div>
         </div>
