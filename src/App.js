@@ -41,7 +41,9 @@ function App() {
               </T>
             </p>
             <p className="my-10 text-blue-600 cursor-pointer">
-              <T>Read full blog</T>
+              <a href="https://blog.theashishmaurya.me/how-to-localize-your-react-app-using-tolgee-toolkit">
+                <T>Read full blog</T>
+              </a>
             </p>
           </div>
         </div>
