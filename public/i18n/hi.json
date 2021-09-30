@@ -1,0 +1,12 @@
+{
+  " This is a demo project to showcase how to achive localization in react using Tolgee" : {
+    "" : "YEs"
+  },
+  "This is a demo project to showcase how to achive localization in react using Tolgee" : "टोलगी, का उपयोग करके प्रतिक्रिया में स्थानीयकरण कैसे प्राप्त करें, यह दिखाने के लिए यह एक डेमो प्रोजेक्ट है",
+  "This project is to explain the viewers how localization can be easily achived in React using Tolgee" : {
+    " And how important it is for buisnesses" : "और यह व्यवसायों के लिए कितना महत्वपूर्ण है"
+  },
+  "Read full blog" : "पूरा ब्लॉग पढ़ें\n",
+  "About" : "के बारे में\n",
+  " Contact" : "संपर्क"
+}
